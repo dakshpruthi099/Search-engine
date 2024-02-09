@@ -1,0 +1,26 @@
+PS C:\Users\daksh\Desktop\Uni\Sem 3\CS 600\Final Project> & C:/Users/daksh/AppData/Local/Programs/Python/Python311/python.exe "c:/Users/daksh/Desktop/Uni/Sem 3/CS 600/Final Project/Parser.py"
+Enter search term or prefix (or type 'exit' to quit): chess
+Autocomplete suggestions: ['chesslike', 'chessplus', 'chessbase', 'chesscoms', 'chessrecurring', 'chessv', 'chessvibes', 'chesss', 'chessence', 'chessresultscom', 'chessśôtôrôñjô', 'chessbombcom', 'chessnote', 'chessgamescom', 'chessdom', 'chesschess', 'chessliveratingorg', 'chessbasecom', 'chessresults', 'chesswestern', 'chesscom', 'chessboards', 'chessnewsru', 'chessgames', 'chessplayer', 'chessboxde', 'chessboard', 'chesse', 'chessmen', 'chessnews', 'chessthe', 'chessrelatedgameshistorical', 'chessman', 'chessa', 'chess', 'chessmaniaccom', 'chesshistorycom', 'chessblogspotcom', 'chessplayers', 'chessplaying', 'chessintranslationcom', 'chesspart', 'chessabstract', 'chessable']
+Document found: Checkmate - Wikipedia.html
+Document found: Chess - Wikipedia.html
+Document found: Chess piece - Wikipedia.html
+Document found: List of chess openings - Wikipedia.html
+Document found: Magnus Carlsen - Wikipedia.html
+Document found: Seedhe Maut - Wikipedia.html
+Document found: World Chess Championship - Wikipedia.html
+Enter search term or prefix (or type 'exit' to quit): lunch
+Autocomplete suggestions: ['lunch']
+Document found: Seedhe Maut - Wikipedia.html
+Enter search term or prefix (or type 'exit' to quit): yeezy
+Autocomplete suggestions: ['yeezy', 'yeezys']
+Document found: Kanye West - Wikipedia.html
+Enter search term or prefix (or type 'exit' to quit): kanye
+Autocomplete suggestions: ['kanyevel', 'kanyewest', 'kanyeproduced', 'kanye', 'kanyes']
+Document found: Kanye West - Wikipedia.html
+Document found: Kendrick Lamar - Wikipedia.html
+Enter search term or prefix (or type 'exit' to quit):
+Enter search term or prefix (or type 'exit' to quit):
+Enter search term or prefix (or type 'exit' to quit):
+Enter search term or prefix (or type 'exit' to quit):
+Enter search term or prefix (or type 'exit' to quit): exit
+PS C:\Users\daksh\Desktop\Uni\Sem 3\CS 600\Final Project> 
